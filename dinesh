@@ -1,0 +1,225 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dinesh N - Digital Marketing Executive</title>
+
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f1f5f9;
+      color: #1e293b;
+      line-height: 1.6;
+      margin: 0;
+      padding: 30px 15px;
+    }
+
+    .resume {
+      max-width: 850px;
+      margin: auto;
+      padding: 40px;
+      background: white;
+      border-top: 6px solid #176b87;
+      box-shadow: 0 4px 15px #00000015;
+    }
+
+    header {
+      text-align: center;
+      border-bottom: 1px solid #ddd;
+      padding-bottom: 20px;
+    }
+
+    h1 {
+      margin-bottom: 5px;
+      letter-spacing: 2px;
+    }
+
+    .role {
+      color: #176b87;
+      font-weight: bold;
+    }
+
+    h2 {
+      color: #176b87;
+      font-size: 17px;
+      text-transform: uppercase;
+      border-bottom: 1px solid #ddd;
+      padding-bottom: 5px;
+      margin-top: 25px;
+    }
+
+    h3 {
+      font-size: 15px;
+      margin-bottom: 5px;
+    }
+
+    p {
+      margin-top: 5px;
+    }
+
+    li {
+      margin-bottom: 5px;
+    }
+
+    a {
+      color: inherit;
+      text-decoration: none;
+    }
+
+    @media (max-width: 600px) {
+      .resume {
+        padding: 22px;
+      }
+
+      body {
+        padding: 0;
+      }
+    }
+
+    @media print {
+      body {
+        background: white;
+        padding: 0;
+      }
+
+      .resume {
+        box-shadow: none;
+        max-width: 100%;
+        padding: 10px;
+      }
+    }
+  </style>
+</head>
+
+<body>
+<div class="resume">
+
+  <header>
+    <h1>DINESH N</h1>
+    <p class="role">
+      Digital Marketing Executive | SEO | Social Media Marketing
+    </p>
+    <p>
+      Coimbatore, Tamil Nadu |
+      <a href="tel:+919344483937">+91 93444 83937</a> |
+      <a href="mailto:dineshfab52@gmail.com">
+        dineshfab52@gmail.com
+      </a>
+    </p>
+    <p>
+      Portfolio:
+      <a href="https://dineshdm.site.je/wp">
+        dineshdm.site.je/wp
+      </a>
+    </p>
+  </header>
+
+  <section>
+    <h2>Professional Summary</h2>
+    <p>
+      Results-focused digital marketing professional with an M.Sc.
+      in Computer Science and hands-on experience delivering three
+      WordPress, SEO, content, and social media projects. Skilled in
+      keyword research, on-page and off-page SEO, SEO copywriting,
+      Google Analytics 4 (GA4), Google Ads, and Canva. Focused on
+      improving website visibility, engagement, and business growth.
+    </p>
+  </section>
+
+  <section>
+    <h2>Core Competencies</h2>
+    <p><strong>SEO:</strong> Keyword research, on-page SEO,
+      off-page SEO, SEO audits, SERP analysis, competitor analysis,
+      meta tags, internal and external linking.</p>
+
+    <p><strong>Digital Marketing:</strong> Content strategy,
+      content marketing, social media marketing, Facebook marketing,
+      campaign planning, audience targeting, Google Business Profile.</p>
+
+    <p><strong>Content and Analytics:</strong> SEO copywriting,
+      content optimization, hashtag research, performance reporting,
+      web analytics, traffic and engagement analysis.</p>
+
+    <p><strong>Tools and Platforms:</strong> WordPress, Canva,
+      Google Ads, Google Analytics 4, Google Search Console,
+      Google Keyword Planner, Meta Business Suite.</p>
+  </section>
+
+  <section>
+    <h2>Relevant Digital Marketing Experience</h2>
+
+    <h3>Adventure Tourism Website | WordPress and SEO Project</h3>
+    <ul>
+      <li>Built and managed a five-page WordPress website covering
+        Home, About Us, Packages, Destinations, and Activities.</li>
+      <li>Used Google Keyword Planner to research search terms and
+        create SEO content for six adventure-tourism service categories.</li>
+      <li>Optimized page titles, meta descriptions, website copy,
+        and internal and external links.</li>
+      <li>Created Canva graphics, social media captions,
+        promotional copy, and targeted hashtags.</li>
+    </ul>
+
+    <h3>Royal Travels | Digital Marketing Project</h3>
+    <ul>
+      <li>Researched keywords and developed search-optimized website
+        copy for travel packages, tourism services, and destinations.</li>
+      <li>Applied on-page SEO to headings, page copy, meta content,
+        and internal-link opportunities.</li>
+      <li>Created captions, hashtags, and promotional copy
+        for digital campaigns.</li>
+    </ul>
+
+    <h3>Royal Textiles | WordPress and SEO Content Project</h3>
+    <ul>
+      <li>Wrote keyword-focused product descriptions for cotton
+        fabrics, silk sarees, and men's clothing.</li>
+      <li>Managed WordPress categories and tags to improve
+        content organization and product discovery.</li>
+      <li>Optimized product and category copy using relevant
+        search terms and created promotional content.</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Work Experience</h2>
+    <h3>
+      BISCO ELECTRO COATING |
+      Quality Control — QC Incharge | 2 Years
+    </h3>
+    <ul>
+      <li>Served as QC Incharge, responsible for quality
+        control activities.</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Education</h2>
+    <p>
+      <strong>Master of Science (M.Sc.) in Computer Science</strong>
+      — Bharathiar University, 2023
+    </p>
+    <p>
+      <strong>Bachelor of Science (B.Sc.) in Computer Science</strong>
+      — Bharathiar University, 2021
+    </p>
+  </section>
+
+  <section>
+    <h2>Certifications</h2>
+    <p>
+      Digital Marketing | Search Engine Optimization (SEO) |
+      Google Ads and Google Analytics | WordPress
+    </p>
+  </section>
+
+  <section>
+    <h2>Languages</h2>
+    <p>Tamil | English</p>
+  </section>
+
+</div>
+</body>
+</html>
